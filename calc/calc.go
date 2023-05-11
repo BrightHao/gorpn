@@ -1,11 +1,12 @@
 package calc
 
 import (
-	"gorpn/stack"
-	"gorpn/util"
 	"log"
 	"math"
 	"strings"
+
+	"github.com/BrightHao/gorpn/stack"
+	"github.com/BrightHao/gorpn/util"
 )
 
 // 计算器对象，用逆波兰法求值

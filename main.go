@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"gorpn/calc"
 	"strconv"
+
+	"github.com/BrightHao/gorpn/calc"
 )
 
 func main() {
